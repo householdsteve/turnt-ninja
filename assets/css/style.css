@@ -1,0 +1,138 @@
+body{margin:0 0 0 0; font-family: 'MuseoSans300',Arial,sans-serif; color:#000; font-size:14px; line-height:17px; background-color:#000000; 
+background:#000 url(../images/bg.jpg) top center no-repeat fixed}
+html, body {
+    height: 100%;
+}
+
+h1{margin:0 0 40px 0; padding:0 0 0 0; font-family: 'MuseoSans700',Arial,sans-serif; font-size:18px; line-height:21px; font-weight:lighter; }
+a{color:#ffffff;}
+img{border:none;}
+
+.clear{clear:both;}
+
+#wrapper{margin:0 auto; width:868px; position:relative; background: #eaeaea url('http://cdn2.yoox.biz/Os/armanigroup/giorgioarmani/images/fol2/bg-fol2.jpg') top center repeat;}
+#page{width:868px; height:auto; }
+
+#logo{background:transparent url(../images/top.png) top center no-repeat; width:860px; height:62px; margin:0 0 0 0; padding:20px 0 0 0; position:relative; top:20px;display:block;}
+
+#col-left{width:607px; padding:0 28px 0 0; margin:0 0 0 0; float:left; }
+#col-left #video{margin:0 0 50px 0;}
+#col-left #content{margin:27px 0 0 27px; width:580px;}
+#col-left #content p{}
+
+#col-right{width:207px; padding:0 0 0 0; margin:27px 0 0 0; float:left; }
+#col-right a {display:block; line-height:134px; margin:0 0 20px 0;}
+
+#col-right a#download1{background:transparent url(../images/download1.jpg) top center no-repeat; width:221px; height:165px; display:block;}
+#col-right a#download2{background:transparent url(../images/download1.jpg) top center no-repeat; width:221px; height:171px; display:block;}
+#col-right a#download3{background:transparent url(../images/download1.jpg) top center no-repeat; width:221px; height:165px; display:block;}
+#col-right a#download4{background:transparent url(../images/download1.jpg) top center no-repeat; width:221px; height:165px; display:block;}
+#col-right a#download5{background:transparent url(../images/download1.jpg) top center no-repeat; width:221px; height:166px; display:block;}
+#col-right a#download6{background:transparent url(../images/download1.jpg) top center no-repeat; width:221px; height:169px; display:block;}
+
+#col-right h1 {
+ margin:0 0 10px 0; 
+}
+
+#col-right small {
+  color:#666;
+  font-size:10px;
+  display:block;
+  margin:0 0 20px 0;
+}
+
+#footer{padding:35px 0 100px 27px;}
+#footer a{text-decoration:none;}
+#footer span{font-family: 'MuseoSans700',Arial,sans-serif; font-size:12px; line-height:15px; margin:0 65px 0 0;}
+
+#footer #share{margin:0 0 0 0; font-size:12px; line-height:15px; height:50px; }
+#footer #share span{float:left;}
+#footer #socials{font-size:11px;width:500px;float:left; margin-top:-4px;}
+
+
+#footer #share a#share-email{background:transparent url(../images/ico-email.jpg) top left no-repeat; height:18px; display:inline-block; padding:4px 0 0 30px; margin:0 40px 0 0;}
+#footer #share a#share-print{background:transparent url(../images/ico-print.jpg) top left no-repeat; height:18px; display:inline-block; padding:4px 0 0 30px; margin:0 40px 0 0;}
+#footer #share a#share-twitter{background:transparent url(../images/ico-twitter.jpg) top left no-repeat; height:18px; display:inline-block; padding:4px 0 0 30px; margin:0 40px 0 0;}
+#footer #share a#share-facebook{background:transparent url(../images/ico-facebook.jpg) top left no-repeat; height:18px; display:inline-block; padding:4px 0 0 30px; margin:0 0 0 0;}
+
+#footer #translation{float:left; width:280px;}
+#footer #translation #lingue{margin:15px 0 50px 0;}
+#footer #translation #lingue a#ico-ita{background:transparent url(../images/ico-ita.jpg) top left no-repeat; width:15px; height:9px; display:inline-block; margin:0 3px 0 0;}
+#footer #translation #lingue a#ico-eng{background:transparent url(../images/ico-eng.jpg) top left no-repeat; width:15px; height:9px; display:inline-block;}
+#footer #translation #links{margin:25px 0 0 0; font-family: 'MuseoSans500',Arial,sans-serif; font-size:14px; line-height:14px;}
+
+#footer #attachments{float:left; width:340px; font-family: 'MuseoSans700',Arial,sans-serif; font-size:11px; line-height:20px;}
+#footer #attachments #att-pdf{margin:15px 0 0 0;}
+#footer #attachments #att-pdf a.ico-pdf{background:transparent url(../images/ico-pdf.jpg) top left no-repeat; height:14px; display:block; padding:0 0 0 20px; margin:0 0 10px 0;}
+#footer #attachments #att-jpg{margin:0 0 0 0;}
+#footer #attachments #att-jpg a.ico-jpg{background:transparent url(../images/ico-jpg.jpg) top left no-repeat; height:14px; display:block; padding:0 0 0 20px; margin:0 0 10px 0;}
+
+#footer #media-contact{float:left; width:220px;}
+#footer #media-contact #contact{font-family: 'MuseoSans300',Arial,sans-serif; font-size:12px; line-height:15px;}
+
+#footer #translation span, #footer #attachments span, #footer #media-contact span{margin:0 0 0 0;}
+
+
+.addthis_toolbox.addthis_default_style  a {
+	display:block;
+    color: #fff;
+    padding: 4px 0 4px 34px;
+    position: relative;
+    text-decoration: none;
+    width: 66px;
+	float:left;
+}
+.addthis_toolbox.addthis_default_style span {
+    left: 14px;
+    position: absolute;
+    top: 4px;
+}
+.addthis_toolbox.addthis_default_style a {
+	display:block;
+    color: #fff;
+    padding: 4px 0 4px 34px;
+    position: relative;
+    text-decoration: none;
+    width: 66px;
+	float:left;
+}
+.addthis_toolbox.addthis_default_style a:hover {
+    -moz-border-radius: 4px 4px 4px 4px;
+    background: none repeat scroll 0 0 #333;
+    color: #fff;
+    text-decoration: none;
+}
+.addthis_toolbox.addthis_default_style span {
+    left: 14px;
+    position: absolute;
+    top: 4px;
+}
+.addthis_toolbox.addthis_default_style .top {
+    border-bottom: 1px solid #444;
+    margin: 0 20px 0;
+    padding: 0 0 10px;
+}
+.addthis_toolbox.addthis_default_style .more {
+    border-top: 1px solid #444;
+    margin: 5px 0 0 5px;
+    padding: 5px 0 0;
+    text-align: center;
+}
+.addthis_toolbox.addthis_default_style .more a {
+    padding: 4px 0;
+    width: auto;
+}
+.addthis_toolbox.addthis_default_style .more span {
+    display: none;
+}
+.addthis_toolbox.addthis_default_style .column2, .addthis_toolbox.addthis_default_style .column1 {
+    float: left;
+    width: 100px;
+}
+.addthis_toolbox.addthis_default_style .clear {
+    clear: both;
+    display: block;
+    height: 0;
+    padding: 0;
+    width: 0;
+}
