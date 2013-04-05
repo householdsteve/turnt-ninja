@@ -5,6 +5,8 @@ html, body {
 }
 
 h1{margin:0 0 40px 0; padding:0 0 0 0; font-family: 'MuseoSans700',Arial,sans-serif; font-size:18px; line-height:21px; font-weight:lighter; }
+h4{margin:0 0 40px 0; padding:0 0 0 0; font-family: 'MuseoSans700',Arial,sans-serif; font-size:15px; line-height:21px; font-weight:lighter; }
+
 a{color:#000; text-decoration:none;}
 img{border:none;}
 
@@ -61,7 +63,7 @@ img{border:none;}
 #footer #translation #lingue a#ico-eng{background:transparent url(../images/ico-eng.jpg) top left no-repeat; width:15px; height:9px; display:inline-block;}
 #footer #translation #links{margin:25px 0 0 0; font-family: 'MuseoSans500',Arial,sans-serif; font-size:14px; line-height:14px;}
 
-#footer #attachments{float:left; width:340px; font-family: 'MuseoSans700',Arial,sans-serif; font-size:11px; line-height:20px;}
+#footer #attachments{float:left; width:240px; font-family: 'MuseoSans700',Arial,sans-serif; font-size:11px; line-height:20px;}
 #footer #attachments #att-pdf{margin:15px 0 0 0;}
 #footer #attachments #att-pdf a.ico-pdf{background:transparent url(../images/ico-pdf.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;}
 #footer #attachments #att-pdf a.ico-word{background:transparent url(../images/ico-word.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;}
