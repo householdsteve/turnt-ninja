@@ -5,7 +5,7 @@ html, body {
 }
 
 h1{margin:0 0 40px 0; padding:0 0 0 0; font-family: 'MuseoSans700',Arial,sans-serif; font-size:18px; line-height:21px; font-weight:lighter; }
-a{color:#ffffff;}
+a{color:#000;}
 img{border:none;}
 
 .clear{clear:both;}
@@ -63,7 +63,8 @@ img{border:none;}
 
 #footer #attachments{float:left; width:340px; font-family: 'MuseoSans700',Arial,sans-serif; font-size:11px; line-height:20px;}
 #footer #attachments #att-pdf{margin:15px 0 0 0;}
-#footer #attachments #att-pdf a.ico-pdf{background:transparent url(../images/ico-pdf.jpg) top left no-repeat; height:14px; display:block; padding:0 0 0 20px; margin:0 0 10px 0;}
+#footer #attachments #att-pdf a.ico-pdf{background:transparent url(../images/ico-pdf.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;}
+#footer #attachments #att-pdf a.ico-word{background:transparent url(../images/ico-word.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;}
 #footer #attachments #att-jpg{margin:0 0 0 0;}
 #footer #attachments #att-jpg a.ico-jpg{background:transparent url(../images/ico-jpg.jpg) top left no-repeat; height:14px; display:block; padding:0 0 0 20px; margin:0 0 10px 0;}
 
@@ -89,7 +90,7 @@ img{border:none;}
 }
 .addthis_toolbox.addthis_default_style a {
 	display:block;
-    color: #fff;
+    color: #000;
     padding: 4px 0 4px 34px;
     position: relative;
     text-decoration: none;
