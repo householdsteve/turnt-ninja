@@ -5,7 +5,7 @@ html, body {
 }
 
 h1{margin:0 0 40px 0; padding:0 0 0 0; font-family: 'MuseoSans700',Arial,sans-serif; font-size:18px; line-height:21px; font-weight:lighter; }
-a{color:#000;}
+a{color:#000; text-decoration:none;}
 img{border:none;}
 
 .clear{clear:both;}
