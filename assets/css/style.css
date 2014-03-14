@@ -35,6 +35,12 @@ img{border:none;}
 #col-right a#download5{background:transparent url(../images/download1.jpg) top center no-repeat; width:221px; height:166px; display:block;}
 #col-right a#download6{background:transparent url(../images/download1.jpg) top center no-repeat; width:221px; height:169px; display:block;}
 
+
+#col-right span.embed {
+  display:block;
+  line-height:20px; margin:0 0 0 0; font-family:Arial,sans-serif; font-weight:bold; font-size:11px;
+}
+
 #col-right h1 {
  margin:0 0 10px 0; 
 }

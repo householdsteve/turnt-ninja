@@ -1,5 +1,5 @@
 <?php
-$full = explode("/",'downloads/press/'.$_REQUEST["file"]);
+$full = explode("/",'downloads/'.$_REQUEST["file"]);
 
 $fileName = $full[count($full)-1];
 
