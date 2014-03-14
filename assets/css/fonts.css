@@ -1,26 +1,7 @@
 @font-face {
-    font-family: 'MuseoSans300';
-    src: url('../fonts/museosans-300-webfont.eot');
-    src: url('../fonts/museosans-300-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/museosans-300-webfont.woff') format('woff'),
-         url('../fonts/museosans-300-webfont.ttf') format('truetype'),
-         url('../fonts/museosans-300-webfont.svgz#MuseoSans300') format('svg'),
-         url('../fonts/museosans-300-webfont.svg#MuseoSans300') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-@font-face {
-    font-family: 'MuseoSans700';
-    src: url('../fonts/museosans_700-webfont.eot');
-    src: url('../fonts/museosans_700-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/museosans_700-webfont.woff') format('woff'),
-         url('../fonts/museosans_700-webfont.ttf') format('truetype'),
-         url('../fonts/museosans_700-webfont.svgz#MuseoSans700') format('svg'),
-         url('../fonts/museosans_700-webfont.svg#MuseoSans700') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
+  font-family: 'NarzissRegular';
+  src: url('../fonts/narziss-regular-webfont.eot');
+  src: url('../fonts/narziss-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/narziss-regular-webfont.woff') format('woff'), url('../fonts/narziss-regular-webfont.ttf') format('truetype'), url('../fonts/narziss-regular-webfont.svg#narzissregularregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
