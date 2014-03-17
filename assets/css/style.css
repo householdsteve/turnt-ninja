@@ -80,7 +80,7 @@ img{border:none;}
 #footer #attachments{float:left; width:370px;  font-size:11px; line-height:20px;}
 #footer #attachments .att-pdf{margin:15px 0 0 0;}
 #footer #attachments .att-pdf a.ico-pdf{background:transparent url(../images/ico-pdf.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;}
-#footer #attachments .att-pdf a.ico-word{background:transparent url(../images/ico-word.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;}
+#footer #attachments .att-pdf a.ico-word{background:transparent url(../images/ico-word.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0; display:block;}
 #footer #attachments #att-jpg{margin:0 0 0 0;}
 #footer #attachments #att-jpg a.ico-jpg{background:transparent url(../images/ico-jpg.jpg) top left no-repeat; height:14px; display:block; padding:0 0 0 20px; margin:0 0 10px 0;}
 
