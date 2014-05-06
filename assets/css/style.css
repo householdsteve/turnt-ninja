@@ -56,7 +56,7 @@ img{border:none;}
  display:block; 
 }
 
-#footer{padding:35px 0 100px 27px;}
+#footer{padding:35px 0 100px 27px;margin-left:40px;}
 #footer a{text-decoration:none;}
 #footer span{ font-size:12px; line-height:15px; margin:0 65px 0 0;}
 
@@ -76,10 +76,10 @@ img{border:none;}
 #footer #translation #lingue a#ico-eng{background:transparent url(../images/ico-eng.jpg) top left no-repeat; width:15px; height:9px; display:inline-block;}
 #footer #translation #links{margin:25px 0 0 0;  font-size:14px; line-height:14px;}
 
-#footer #attachments{float:left; width:370px;  font-size:11px; line-height:20px;}
+#footer #attachments{float:left; width:240px; font-family: 'MuseoSans700',Arial,sans-serif; font-size:11px; line-height:20px;}
 #footer #attachments .att-pdf{margin:15px 0 0 0;}
-#footer #attachments .att-pdf a.ico-pdf{background:transparent url(../images/ico-pdf.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;display:inline-block;}
-#footer #attachments .att-pdf a.ico-word{background:transparent url(../images/ico-word.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0; display:block;}
+#footer #attachments .att-pdf a.ico-pdf{background:transparent url(../images/ico-pdf.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;}
+#footer #attachments .att-pdf a.ico-word{background:transparent url(../images/ico-word.png) top left no-repeat; height:14px;  padding:0 0 0 20px; margin:0 0 10px 0;}
 #footer #attachments #att-jpg{margin:0 0 0 0;}
 #footer #attachments #att-jpg a.ico-jpg{background:transparent url(../images/ico-jpg.jpg) top left no-repeat; height:14px; display:block; padding:0 0 0 20px; margin:0 0 10px 0;}
 
