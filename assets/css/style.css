@@ -17,7 +17,7 @@ img{border:none;}
 #wrapper{margin:0 auto; width:974px; position:relative; background: #eaeaea url('http://cdn2.yoox.biz/Os/armanigroup/giorgioarmani/images/fol2/bg-fol2.jpg') top center repeat;}
 #page{width:974px; height:auto; }
 
-#logo{background:transparent url(../images/focf-header.png) top center no-repeat; width:940px; height:30px; margin:0 0 0 0; padding:50px 0 0 0; position:relative; top:20px;display:block;}
+#logo{background:transparent url(../images/focf-header.png) top center no-repeat; width:940px; height:30px; margin:0 0 20px 0; padding:50px 0 0 0; position:relative; top:20px;display:block;}
 
 #col-left{width:607px; padding:0 28px 0 0; margin:0 0 0 40px; float:left; }
 #col-left #video{margin:0 0 50px 0;}
